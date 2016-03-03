@@ -13,13 +13,13 @@ sass:
   style: compressed
 
 # Site settings
-title: Lora
-description: "A free Jekyll theme"
-email: your-email@domain.com
+title: iPin Wiki
+description: "Ideological Pin, Bursting the Filter buble: Wiki"
+email: sp2335@cornell.edu
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com"
 url: "http://nandomoreira.me/lora"
-repository: "https://github.com/nandomoreirame/lora"
+repository: "https://github.com/IdeologyPin/wiki"
 disqus_shortname: "fernandomoreira"
 google_analytics: UA-52446115-1
 
@@ -40,3 +40,5 @@ social:
   linkedin:
     slug: linkedin
     link: http://linkedin.com/in/nandomoreirame
+
+gems: [jekyll-paginate]
